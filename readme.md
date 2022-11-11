@@ -1,4 +1,4 @@
-# Super notes
+# Super notes &#x1f4d4;
 
 ## Description de l’application
 
