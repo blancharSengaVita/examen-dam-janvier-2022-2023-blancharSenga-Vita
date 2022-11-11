@@ -4,7 +4,7 @@
 
 Super notes est une application qui permet de prendre des **notes rapides et/ou élaboré** et de les éditer à notre sauce. Elle se basera sur l’application google keep mais intégra les points forts d’autres applications de notes notamment notion. Ça va permettre aux gens d’avoir leurs notes centraliser sur une application et aussi bien sur le desktop que sur leurs téléphones.
 
-## ❓ ❔ Pourquoi faire une application de note alors qu’il y en a des tas qui existent
+## ❓ Pourquoi faire une application de note alors qu’il y en a des tas qui existent
 
 1. Parce que je ne connais aucune application de notes qui est à la fois agréable pour prendre des notes rapides et des notes de cours, ce qui oblige à avoir 2 applications de prise de notes pour pouvoir satisfaire ce besoin au lieu de tout avoir centralisé.
 2. J’utilise ces 2 types de notes quotidiennement donc je sais relativement bien ce dont les gens ont besoin et ou appuyer
@@ -19,16 +19,23 @@ Super notes est une application qui permet de prendre des **notes rapides et/ou 
 Ici je vais analyse les points forts et points faibles des applications les connues
 
 ### Google Keep
-<img src="resized2/googlekeep/Screenshot_20221111-094544_Google Play Store.jpg"
-alt="oui" height="400">
-<img src="resized2/googlekeep/Screenshot_20221111-094544_Google Play Store.jpg"
-alt="oui" height="400">
-<img src="resized2/googlekeep/Screenshot_20221111-094544_Google Play Store.jpg"
-alt="oui" height="400">
-<img src="resized2/googlekeep/Screenshot_20221111-094544_Google Play Store.jpg"
-alt="oui" height="400">
-<img src="resized2/googlekeep/Screenshot_20221111-094544_Google Play Store.jpg"
-alt="oui" height="400">
+<img src="resized2/googlekeep/Screenshot_20221111-094551_Google Play Store.jpg"
+alt="oui" height="410">
+<img src="resized2/googlekeep/Screenshot_20221111-094556_Google Play Store.jpg"
+alt="oui" height="410">
+<img src="resized2/googlekeep/Screenshot_20221111-094603_Google Play Store.jpg"
+alt="oui" height="410">
+<img src="resized2/googlekeep/Screenshot_20221111-094656_Google Play Store.jpg"
+alt="oui" height="410">
+<img src="resized2/googlekeep/Screenshot_20221111-095152_Google Play Store.jpg"
+<img src="resized2/googlekeep/Screenshot_20221111-095154_Google Play Store.jpg"
+<img src="resized2/googlekeep/Screenshot_20221111-095157_Google Play Store.jpg"
+<img src="resized2/googlekeep/Screenshot_20221111-095201_Google Play Store.jpg"
+<img src="resized2/googlekeep/Screenshot_20221111-095201_Google Play Store.jpg"
+<img src="resized2/googlekeep/Screenshot_20221111-095205_Google Play Store.jpg"
+<img src="resized2/googlekeep/Screenshot_20221111-095208_Google Play Store.jpg"
+<img src="resized2/googlekeep/Screenshot_20221111-095212_Google Play Store.jpg"
+alt="oui" height="410">
 
 
 | ✅ Pour                                                                                                                                                                                                                                                                                                             | ❌ contre                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
