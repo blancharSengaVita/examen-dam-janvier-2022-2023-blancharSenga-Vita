@@ -21,6 +21,14 @@ Ici je vais analyse les points forts et points faibles des applications les conn
 ### Google Keep
 <img src="resized2/googlekeep/Screenshot_20221111-094544_Google Play Store.jpg"
 alt="oui" height="450">
+<img src="resized2/googlekeep/Screenshot_20221111-094544_Google Play Store.jpg"
+alt="oui" height="450">
+<img src="resized2/googlekeep/Screenshot_20221111-094544_Google Play Store.jpg"
+alt="oui" height="450">
+<img src="resized2/googlekeep/Screenshot_20221111-094544_Google Play Store.jpg"
+alt="oui" height="450">
+<img src="resized2/googlekeep/Screenshot_20221111-094544_Google Play Store.jpg"
+alt="oui" height="450">
 
 
 | ✅ Pour                                                                                                                                                                                                                                                                                                             | ❌ contre                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
@@ -41,9 +49,9 @@ alt="oui" height="450">
 
 ### Evernote
 
-| ❌ contre                                   |
-|--------------------------------------------|
-| - Payant (je n'ai pas pu experimenté plus) |
+| ❌ contre                                                                                                                   |
+|----------------------------------------------------------------------------------------------------------------------------|
+| - Payant (je n'ai pas pu experimenté plus)                                                                                 |
 
 ### Apples Notes
 
@@ -61,9 +69,9 @@ alt="oui" height="450">
 
 ### Mind notes
 
-| ✅ pour                                               | ❌ contre                                      |
-|------------------------------------------------------|-----------------------------------------------|
-| - ajouté un des labels</br>- workflow personalisable | - pub</br>- disponible sur une seule platform |
+| ✅ pour                                               | ❌ contre                                                             |
+|------------------------------------------------------|----------------------------------------------------------------------|
+| - ajouté un des labels</br>- workflow personalisable | - pub</br>- disponible sur une seule platform                        |
 
 ## ⚙️ Fonctionnalités possibles
 
