@@ -20,7 +20,7 @@ Ici je vais analyse les points forts et points faibles des applications les conn
 
 ### Google Keep
 <img src="resized2/googlekeep/Screenshot_20221111-094544_Google Play Store.jpg"
-alt="oui" height="300">
+alt="oui" height="450">
 
 
 | ✅ Pour                                                                                                                                                                                                                                                                                                             | ❌ contre                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
