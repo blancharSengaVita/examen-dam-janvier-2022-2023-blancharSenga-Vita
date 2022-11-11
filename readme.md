@@ -19,7 +19,7 @@ Super notes est une application qui permet de prendre des **notes rapides et/ou 
 Ici je vais analyse les points forts et points faibles des applications les connues
 
 ### Google Keep
-<img src="picture-resized/googlekeep/Screenshot_20221111-095152_Google Play Store.jpg" 
+<img src="Screenshot_20221111-095152_Google Play Store.jpg" 
 alt="oui" >
 
 
