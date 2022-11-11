@@ -1,37 +1,83 @@
 # Super notes
 
-## Description de l'application
-Super notes est une application qui permet de prendre des **notes rapides et/ou élaboré** et de les éditer à notre sauce. Elle se basera sur l'application google keep mais intégra les points forts d'autres applications de notes notamment notion, microsoft Onenote. Ça va permettre aux gens d'avoir leurs notes aussi bien sur le desktop que sur leurs téléphones.
+## Description de l’application
 
-## Pourquoi faire une application de note alors qu'il y en a des tas qui existe
+Super notes est une application qui permet de prendre des **notes rapides et/ou élaboré** et de les éditer à notre sauce. Elle se basera sur l’application google keep mais intégra les points forts d’autres applications de notes notamment notion. Ça va permettre aux gens d’avoir leurs notes centraliser sur une application et aussi bien sur le desktop que sur leurs téléphones.
+
+## Pourquoi faire une application de note alors qu’il y en a des tas qui existent
+
 1. Parce que je ne connais aucune application de notes qui est à la fois agréable pour prendre des notes rapides et des notes de cours, ce qui oblige à avoir 2 applications de prise de notes pour pouvoir satisfaire ce besoin au lieu de tout avoir centralisé.
+2. J’utilise ces 2 types de notes quotidiennement donc je sais relativement bien ce dont les gens ont besoin et ou appuyer
+3. Il y a tellement d’applications qui ont les memes
 
-2. J'utilise ces 2 types de notes quotidiennement les idées et axes ameliorations pour naitre facilement et à termes je pourrais la commercialiser.
+## Public ciblé (Persona)
 
-3. il y a des fonctionnalités qui ne sont pas présentes sur ces applications alors qu'elle pourrait être intéressante.
+à faire
 
-## Analyse de l'existante
-Ici je vais analyse les points forts et points faibles des applications les connues 
+## Analyse de l’existante
+
+Ici je vais analyse les points forts et points faibles des applications les connues
 
 ### Google Keep
-| Pour   &#x2705;                                                                             | contre &#x274C; | 
-|---------------------------------------------------------------------------------------------|-----------|
-| - On peut rapidement faire des notes <br/> - on peut avoir ses notes sur d'autres platforme | - avoir a la fois une liste de tâches et des textes dans une note. <br/>- placer des images où on veut dans la note. <br/>- avoir une vue d'ensemble chronologique sur les rappels. <br/>- changer le style du texte de nos notes (mettre en gras, en couleur, en italique). <br/>- rajouter du dessin sur nos notes. <br/>- cacher des notes et avoir un mots de passe pour les voir. <br/>- et une meilleur façon d'organisation les notes. <br/>- intégrer là ou on veut dans la page. | 
+
+| Pour ✅                                                                                                                                                                                                                                                                                                             | contre ❌                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| - On peut rapidement faire des notes </br>- On prendre des notes vocal </br>- On peut dessiner  </br>- On peut mettre des rapples sur les notes</br>- On peut mettre des labes sur les notes</br>- Leurs donner une couleur</br>- Mode sombre</br>- Une bonne vue d’ensemble des notes</br>- On peut pin nos notes | </br> - Avoir a la fois une liste de tâches et des textes dans une note. </br> - Placer des images où on veut dans la note. </br> - Avoir une vue d’ensemble chronologique sur les rappels/notes. </br> - Changer le style du texte de nos notes (mettre en gras, en couleur, en italique). </br> - Rajouter du dessin sur nos notes. </br> - Cacher des notes et avoir un mots de passe pour les voir. </br> - Avoir un espace freeform ? </br> - prends pas en charge le markdown |
 
 ### notion
-| pour &#x2705;                                                                      | contre &#x274C;                                                                                                                                                   |
-|------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| - on peut imbriquer des notes dans des notes<br/> - nos documents sont en markdown | - Compliqué à prendre en main<br/> - on peut pas rajouter des dessins deçu <br/> - Avoir des rappels pour les notes <br/> - L'app ne favorise pas les quick notes |
+
+| pour ✅                                                                                                                                                                                                                                                                                                        | contre ❌                                                                                                                                                                                                                                                         |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| - On peut imbriquer des notes dans des notes </br> - Nos documents sont en markdown </br> - On peut styliser son workflow </br> - On peut avoir ses notes sur d’autres platforme </br> - on peut chercher nos notes avec une chronologie </br> - on peut rajouter des tableaux et des base de donner de chose | - Compliqué à prendre en main </br> - on peut pas rajouter des dessins deçu </br> - Avoir des rappels pour les notes  - L’app ne favorise pas les quick notes </br> - On a pas une vue d’ensemble des notes </br> - On peut pas styliser à notre gouts nos notes |
 
 ### Samsung Notes
 
+| pour ✅                                                                                                                                                        | contre ❌                                                                                                            |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
+| - On peut créer des dossiers de nos notes</br> - On peut placer son contenu comme on veut sur la page de note</br> - On peut styliser à notre gouts nos notes | - On ne peut pas avoir ses notes sur d’autres platforme (android seulement)</br> - prends pas en charge le markdown |
 
-### Autres application passer rapidement en revue
+### Evernote
+
+| contre ❌                                   |
+|--------------------------------------------|
+| - Payant (je n'ai pas pu experimenté plus) |
+
 ### Apples Notes
 
-### Autres applications
+| pour ✅                                                                                                                                                                               | contre ❌                                                                                                                           |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
+| - on peut conserver nos notes dans le cloud</br> - on peut mettre plusieurs rappelles dans une notes</br> - on peut styliser nos notes</br> - on peut avoir des dossier de nos notes | - disponible que sur IOS (pas pu voir les défauts</br> - prends pas en charge le markdown</br> - disponible sur une seule platform |
 
+### Easy notes
 
+| pour ✅                                                                         | contre ❌ |
+|--------------------------------------------------------------------------------|---|
+| - calendrier ou on peut ajouter des notes dessus </br> - ajouté un des labels  | - theme personalisable </br> - pub </br>- disponible sur une seule platform |
 
+ 
 
+### Mind notes
 
+| pour ✅                                               | contre ❌                                      |
+|------------------------------------------------------|-----------------------------------------------|
+| - ajouté un des labels</br>- workflow personalisable | - pub</br>- disponible sur une seule platform |
+
+## Fonctionnalités
+
+### Fonctionnalités payantes
+
+Les templates ?
+
+Les polices d’écriture en plus ? 
+
+Widget à l’écran ?
+
+Les packs d’émojis ?
+
+## Moodboard UX
+
+## Prototype
+
+## Moodboard UI
+
+## Design
