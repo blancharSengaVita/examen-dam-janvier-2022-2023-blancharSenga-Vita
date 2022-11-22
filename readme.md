@@ -22,13 +22,7 @@ Super notes est une application qui permet de prendre des **notes rapides et/ou 
 Ici je vais analyse les points forts et points faibles des applications les connues
 
 ### Google Keep
-<img src="pictures/analyse-de-l-existance/googlekeep/Screenshot_20221111-095152_Google Play Store.jpg" alt="oui" height="410" width="auto"> <img src="pictures/analyse-de-l-existance/googlekeep/Screenshot_20221111-095154_Google Play Store.jpg" alt="oui" height="410" width="auto">
-<img src="pictures/analyse-de-l-existance/googlekeep/Screenshot_20221111-095157_Google Play Store.jpg" alt="oui" height="410" width="auto">
-<img src="pictures/analyse-de-l-existance/googlekeep/Screenshot_20221111-095201_Google Play Store.jpg" alt="oui" height="410" width="auto">
-<img src="pictures/analyse-de-l-existance/googlekeep/Screenshot_20221111-095201_Google Play Store.jpg" alt="oui" height="410" width="auto">
-<img src="pictures/analyse-de-l-existance/googlekeep/Screenshot_20221111-095205_Google Play Store.jpg" alt="oui" height="410" width="auto">
-<img src="pictures/analyse-de-l-existance/googlekeep/Screenshot_20221111-095208_Google Play Store.jpg" alt="oui" height="410" width="auto">
-<img src="pictures/analyse-de-l-existance/googlekeep/Screenshot_20221111-095212_Google Play Store.jpg" alt="oui" height="410" width="auto">
+<img src="pictures/analyse-de-l-existance/googlekeep/Screenshot_20221111-095152_Google Play Store.jpg" alt="oui" height="410" width="auto"> <img src="pictures/analyse-de-l-existance/googlekeep/Screenshot_20221111-095154_Google Play Store.jpg" alt="oui" height="410" width="auto"> <img src="pictures/analyse-de-l-existance/googlekeep/Screenshot_20221111-095157_Google Play Store.jpg" alt="oui" height="410" width="auto"> <img src="pictures/analyse-de-l-existance/googlekeep/Screenshot_20221111-095201_Google Play Store.jpg" alt="oui" height="410" width="auto"> <img src="pictures/analyse-de-l-existance/googlekeep/Screenshot_20221111-095201_Google Play Store.jpg" alt="oui" height="410" width="auto"> <img src="pictures/analyse-de-l-existance/googlekeep/Screenshot_20221111-095205_Google Play Store.jpg" alt="oui" height="410" width="auto"> <img src="pictures/analyse-de-l-existance/googlekeep/Screenshot_20221111-095208_Google Play Store.jpg" alt="oui" height="410" width="auto"> <img src="pictures/analyse-de-l-existance/googlekeep/Screenshot_20221111-095212_Google Play Store.jpg" alt="oui" height="410" width="auto">
 
 
 | ✅ Pour                                                                                                                                                                                                                                                                                                             | ❌ contre                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
@@ -36,12 +30,7 @@ Ici je vais analyse les points forts et points faibles des applications les conn
 | - On peut rapidement faire des notes </br>- On prendre des notes vocal </br>- On peut dessiner  </br>- On peut mettre des rapples sur les notes</br>- On peut mettre des labes sur les notes</br>- Leurs donner une couleur</br>- Mode sombre</br>- Une bonne vue d’ensemble des notes</br>- On peut pin nos notes | </br> - Avoir a la fois une liste de tâches et des textes dans une note. </br> - Placer des images où on veut dans la note. </br> - Avoir une vue d’ensemble chronologique sur les rappels/notes. </br> - Changer le style du texte de nos notes (mettre en gras, en couleur, en italique). </br> - Rajouter du dessin sur nos notes. </br> - Cacher des notes et avoir un mots de passe pour les voir. </br> - Avoir un espace freeform ? </br> - prends pas en charge le markdown |
 
 ### notion
-<img src="pictures/analyse-de-l-existance/notion/Screenshot_20221111-101031_Google Play Store.jpg" alt="oui" height="410" width="auto">
-<img src="pictures/analyse-de-l-existance/notion/Screenshot_20221111-101036_Google Play Store.jpg" alt="oui" height="410" width="auto">
-<img src="pictures/analyse-de-l-existance/notion/Screenshot_20221111-101041_Google Play Store.jpg" alt="oui" height="410" width="auto">
-<img src="pictures/analyse-de-l-existance/notion/Screenshot_20221111-101045_Google Play Store.jpg" alt="oui" height="410" width="auto">
-<img src="pictures/analyse-de-l-existance/notion/Screenshot_20221111-101049_Google Play Store.jpg" alt="oui" height="410" width="auto">
-<img src="pictures/analyse-de-l-existance/notion/Screenshot_20221111-101224_Notion.jpg" alt="oui" height="410" width="auto">
+<img src="pictures/analyse-de-l-existance/notion/Screenshot_20221111-101031_Google Play Store.jpg" alt="oui" height="410" width="auto"><img src="pictures/analyse-de-l-existance/notion/Screenshot_20221111-101036_Google Play Store.jpg" alt="oui" height="410" width="auto"><img src="pictures/analyse-de-l-existance/notion/Screenshot_20221111-101041_Google Play Store.jpg" alt="oui" height="410" width="auto"><img src="pictures/analyse-de-l-existance/notion/Screenshot_20221111-101045_Google Play Store.jpg" alt="oui" height="410" width="auto"><img src="pictures/analyse-de-l-existance/notion/Screenshot_20221111-101049_Google Play Store.jpg" alt="oui" height="410" width="auto"><img src="pictures/analyse-de-l-existance/notion/Screenshot_20221111-101224_Notion.jpg" alt="oui" height="410" width="auto">
 
 
 
@@ -50,14 +39,7 @@ Ici je vais analyse les points forts et points faibles des applications les conn
 | - On peut imbriquer des notes dans des notes </br> - Nos documents sont en markdown </br> - On peut styliser son workflow </br> - On peut avoir ses notes sur d’autres platforme </br> - on peut chercher nos notes avec une chronologie </br> - on peut rajouter des tableaux et des base de donner de chose | - Compliqué à prendre en main </br> - on peut pas rajouter des dessins deçu </br> - Avoir des rappels pour les notes  - L’app ne favorise pas les quick notes </br> - On a pas une vue d’ensemble des notes </br> - On peut pas styliser à notre gouts nos notes |
 
 ### Samsung Notes
-<img src="pictures/analyse-de-l-existance/samsungnotes/Screenshot_20221111-095941_Google Play Store.jpg" alt="oui" height="410" width="auto">
-<img src="pictures/analyse-de-l-existance/samsungnotes/Screenshot_20221111-095946_Google Play Store.jpg" alt="oui" height="410" width="auto">
-<img src="pictures/analyse-de-l-existance/samsungnotes/Screenshot_20221111-095949_Google Play Store.jpg" alt="oui" height="410" width="auto">
-<img src="pictures/analyse-de-l-existance/samsungnotes/Screenshot_20221111-095953_Google Play Store.jpg" alt="oui" height="410" width="auto">
-<img src="pictures/analyse-de-l-existance/samsungnotes/Screenshot_20221111-095958_Google Play Store.jpg" alt="oui" height="410" width="auto">
-<img src="pictures/analyse-de-l-existance/samsungnotes/Screenshot_20221111-100002_Google Play Store.jpg" alt="oui" height="410" width="auto">
-<img src="pictures/analyse-de-l-existance/samsungnotes/Screenshot_20221111-100005_Google Play Store.jpg" alt="oui" height="410" width="auto">
-
+<img src="pictures/analyse-de-l-existance/samsungnotes/Screenshot_20221111-095941_Google Play Store.jpg" alt="oui" height="410" width="auto"><img src="pictures/analyse-de-l-existance/samsungnotes/Screenshot_20221111-095946_Google Play Store.jpg" alt="oui" height="410" width="auto"><img src="pictures/analyse-de-l-existance/samsungnotes/Screenshot_20221111-095949_Google Play Store.jpg" alt="oui" height="410" width="auto"><img src="pictures/analyse-de-l-existance/samsungnotes/Screenshot_20221111-095953_Google Play Store.jpg" alt="oui" height="410" width="auto"><img src="pictures/analyse-de-l-existance/samsungnotes/Screenshot_20221111-095958_Google Play Store.jpg" alt="oui" height="410" width="auto"><img src="pictures/analyse-de-l-existance/samsungnotes/Screenshot_20221111-100002_Google Play Store.jpg" alt="oui" height="410" width="auto"><img src="pictures/analyse-de-l-existance/samsungnotes/Screenshot_20221111-100005_Google Play Store.jpg" alt="oui" height="410" width="auto">
 | ✅ pour                                                                                                                                                        | ❌ contre                                                                                                            |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
 | - On peut créer des dossiers de nos notes</br> - On peut placer son contenu comme on veut sur la page de note</br> - On peut styliser à notre gouts nos notes | - On ne peut pas avoir ses notes sur d’autres platforme (android seulement)</br> - prends pas en charge le markdown |
@@ -70,30 +52,14 @@ Ici je vais analyse les points forts et points faibles des applications les conn
 | - Payant (je n'ai pas pu experimenté plus)                                                                                 |
 
 ### Apples Notes
-<img src="pictures/analyse-de-l-existance/applesnotes/Screenshot_20221111-110410_Chrome.jpg" alt="oui" height="410" width="auto">
-<img src="pictures/analyse-de-l-existance/applesnotes/Screenshot_20221111-110418_Chrome.jpg" alt="oui" height="410" width="auto">
-<img src="pictures/analyse-de-l-existance/applesnotes/Screenshot_20221111-110424_Chrome.jpg" alt="oui" height="410" width="auto">
-<img src="pictures/analyse-de-l-existance/applesnotes/Screenshot_20221111-110430_Chrome.jpg" alt="oui" height="410" width="auto">
-<img src="pictures/analyse-de-l-existance/applesnotes/Screenshot_20221111-110438_Chrome.jpg" alt="oui" height="410" width="auto">
-<img src="pictures/analyse-de-l-existance/applesnotes/Screenshot_20221111-110445_Chrome.jpg" alt="oui" height="410" width="auto">
-<img src="pictures/analyse-de-l-existance/applesnotes/Screenshot_20221111-110453_Chrome.jpg" alt="oui" height="410" width="auto">
-<img src="pictures/analyse-de-l-existance/applesnotes/Screenshot_20221111-110505_Chrome.jpg" alt="oui" height="410" width="auto">
-<img src="pictures/analyse-de-l-existance/applesnotes/Screenshot_20221111-111506_Chrome.jpg" alt="oui" height="410" width="auto">
+<img src="pictures/analyse-de-l-existance/applesnotes/Screenshot_20221111-110410_Chrome.jpg" alt="oui" height="410" width="auto"><img src="pictures/analyse-de-l-existance/applesnotes/Screenshot_20221111-110418_Chrome.jpg" alt="oui" height="410" width="auto"><img src="pictures/analyse-de-l-existance/applesnotes/Screenshot_20221111-110424_Chrome.jpg" alt="oui" height="410" width="auto"><img src="pictures/analyse-de-l-existance/applesnotes/Screenshot_20221111-110430_Chrome.jpg" alt="oui" height="410" width="auto"><img src="pictures/analyse-de-l-existance/applesnotes/Screenshot_20221111-110438_Chrome.jpg" alt="oui" height="410" width="auto"><img src="pictures/analyse-de-l-existance/applesnotes/Screenshot_20221111-110445_Chrome.jpg" alt="oui" height="410" width="auto"><img src="pictures/analyse-de-l-existance/applesnotes/Screenshot_20221111-110453_Chrome.jpg" alt="oui" height="410" width="auto"><img src="pictures/analyse-de-l-existance/applesnotes/Screenshot_20221111-110505_Chrome.jpg" alt="oui" height="410" width="auto"><img src="pictures/analyse-de-l-existance/applesnotes/Screenshot_20221111-111506_Chrome.jpg" alt="oui" height="410" width="auto">
 
 | ✅  pour | ❌ contre |           
 |-----|-----------|
 | - on peut conserver nos notes dans le cloud</br> - on peut mettre plusieurs rappelles dans une notes</br> - on peut styliser nos notes</br> - on peut avoir des dossier de nos notes | - disponible que sur IOS (pas pu voir les défauts</br> - prends pas en charge le markdown</br> - disponible sur une seule platform |
 
 ### Easy notes
-<img src="pictures/analyse-de-l-existance/easynote/Screenshot_20221111-112844_Google Play Store.jpg" alt="oui" height="410" width="auto">
-<img src="pictures/analyse-de-l-existance/easynote/Screenshot_20221111-112847_Google Play Store.jpg" alt="oui" height="410" width="auto">
-<img src="pictures/analyse-de-l-existance/easynote/Screenshot_20221111-112851_Google Play Store.jpg" alt="oui" height="410" width="auto">
-<img src="pictures/analyse-de-l-existance/easynote/Screenshot_20221111-112856_Google Play Store.jpg" alt="oui" height="410" width="auto">
-<img src="pictures/analyse-de-l-existance/easynote/Screenshot_20221111-112900_Google Play Store.jpg" alt="oui" height="410" width="auto">
-<img src="pictures/analyse-de-l-existance/easynote/Screenshot_20221111-112905_Google Play Store.jpg" alt="oui" height="410" width="auto">
-<img src="pictures/analyse-de-l-existance/easynote/Screenshot_20221111-112913_Google Play Store.jpg" alt="oui" height="410" width="auto">
-<img src="pictures/analyse-de-l-existance/easynote/Screenshot_20221111-112919_Google Play Store.jpg" alt="oui" height="410" width="auto">
-<img src="pictures/analyse-de-l-existance/easynote/Screenshot_20221111-112925_Google Play Store.jpg" alt="oui" height="410" width="auto">
+<img src="pictures/analyse-de-l-existance/easynote/Screenshot_20221111-112844_Google Play Store.jpg" alt="oui" height="410" width="auto"> <img src="pictures/analyse-de-l-existance/easynote/Screenshot_20221111-112847_Google Play Store.jpg" alt="oui" height="410" width="auto"> <img src="pictures/analyse-de-l-existance/easynote/Screenshot_20221111-112851_Google Play Store.jpg" alt="oui" height="410" width="auto"> <img src="pictures/analyse-de-l-existance/easynote/Screenshot_20221111-112856_Google Play Store.jpg" alt="oui" height="410" width="auto"> <img src="pictures/analyse-de-l-existance/easynote/Screenshot_20221111-112900_Google Play Store.jpg" alt="oui" height="410" width="auto"> <img src="pictures/analyse-de-l-existance/easynote/Screenshot_20221111-112905_Google Play Store.jpg" alt="oui" height="410" width="auto"> <img src="pictures/analyse-de-l-existance/easynote/Screenshot_20221111-112913_Google Play Store.jpg" alt="oui" height="410" width="auto"> <img src="pictures/analyse-de-l-existance/easynote/Screenshot_20221111-112919_Google Play Store.jpg" alt="oui" height="410" width="auto"> <img src="pictures/analyse-de-l-existance/easynote/Screenshot_20221111-112925_Google Play Store.jpg" alt="oui" height="410" width="auto">
 
 
 | ✅ pour                                                                        | ❌ contre                                                                    |
@@ -103,14 +69,7 @@ Ici je vais analyse les points forts et points faibles des applications les conn
  
 
 ### Mind notes
-<img src="pictures/analyse-de-l-existance/mindnotes/Screenshot_20221111-114511_Google Play Store.jpg" alt="oui" height="410" width="auto">
-<img src="pictures/analyse-de-l-existance/mindnotes/Screenshot_20221111-114523_Google Play Store.jpg" alt="oui" height="410" width="auto">
-<img src="pictures/analyse-de-l-existance/mindnotes/Screenshot_20221111-114529_Google Play Store.jpg" alt="oui" height="410" width="auto">
-<img src="pictures/analyse-de-l-existance/mindnotes/Screenshot_20221111-114534_Google Play Store.jpg" alt="oui" height="410" width="auto">
-<img src="pictures/analyse-de-l-existance/mindnotes/Screenshot_20221111-114539_Google Play Store.jpg" alt="oui" height="410" width="auto">
-<img src="pictures/analyse-de-l-existance/mindnotes/Screenshot_20221111-114545_Google Play Store.jpg" alt="oui" height="410" width="auto">
-<img src="pictures/analyse-de-l-existance/mindnotes/Screenshot_20221111-114550_Google Play Store.jpg" alt="oui" height="410" width="auto">
-<img src="pictures/analyse-de-l-existance/mindnotes/Screenshot_20221111-114555_Google Play Store.jpg" alt="oui" height="410" width="auto">
+<img src="pictures/analyse-de-l-existance/mindnotes/Screenshot_20221111-114511_Google Play Store.jpg" alt="oui" height="410" width="auto"> <img src="pictures/analyse-de-l-existance/mindnotes/Screenshot_20221111-114523_Google Play Store.jpg" alt="oui" height="410" width="auto"> <img src="pictures/analyse-de-l-existance/mindnotes/Screenshot_20221111-114529_Google Play Store.jpg" alt="oui" height="410" width="auto"> <img src="pictures/analyse-de-l-existance/mindnotes/Screenshot_20221111-114534_Google Play Store.jpg" alt="oui" height="410" width="auto"> <img src="pictures/analyse-de-l-existance/mindnotes/Screenshot_20221111-114539_Google Play Store.jpg" alt="oui" height="410" width="auto"> <img src="pictures/analyse-de-l-existance/mindnotes/Screenshot_20221111-114545_Google Play Store.jpg" alt="oui" height="410" width="auto"> <img src="pictures/analyse-de-l-existance/mindnotes/Screenshot_20221111-114550_Google Play Store.jpg" alt="oui" height="410" width="auto"> <img src="pictures/analyse-de-l-existance/mindnotes/Screenshot_20221111-114555_Google Play Store.jpg" alt="oui" height="410" width="auto">
 
 
 | ✅ pour                                               | ❌ contre                                                             |
@@ -171,11 +130,7 @@ audio => snapchat
 
 
 #### barre de navigation
-<img src="pictures/ux-moodboard/barre-navigation/naviagation-bar-.png" height="auto" width="400">
-<img src="pictures/ux-moodboard/barre-navigation/navigation-bar-1.png" height="auto" width="400">
-<img src="pictures/ux-moodboard/barre-navigation/navigation-bar-2.png" height="auto" width="400">
-<img src="pictures/ux-moodboard/barre-navigation/navigation-bar-4.png" height="auto" width="400">
-<img src="pictures/ux-moodboard/barre-navigation/navigation-bar-5.png" height="auto" width="400">
+<img src="pictures/ux-moodboard/barre-navigation/naviagation-bar-.png" height="auto" width="400"> <img src="pictures/ux-moodboard/barre-navigation/navigation-bar-1.png" height="auto" width="400"> <img src="pictures/ux-moodboard/barre-navigation/navigation-bar-2.png" height="auto" width="400"> <img src="pictures/ux-moodboard/barre-navigation/navigation-bar-4.png" height="auto" width="400"> <img src="pictures/ux-moodboard/barre-navigation/navigation-bar-5.png" height="auto" width="400">
 
 
 #### barre du haut
