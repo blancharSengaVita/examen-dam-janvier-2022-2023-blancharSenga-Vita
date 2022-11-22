@@ -22,8 +22,7 @@ Super notes est une application qui permet de prendre des **notes rapides et/ou 
 Ici je vais analyse les points forts et points faibles des applications les connues
 
 ### Google Keep
-<img src="pictures/analyse-de-l-existance/googlekeep/Screenshot_20221111-095152_Google Play Store.jpg" alt="oui" height="410" width="auto">
-<img src="pictures/analyse-de-l-existance/googlekeep/Screenshot_20221111-095154_Google Play Store.jpg" alt="oui" height="410" width="auto">
+<img src="pictures/analyse-de-l-existance/googlekeep/Screenshot_20221111-095152_Google Play Store.jpg" alt="oui" height="410" width="auto"> <img src="pictures/analyse-de-l-existance/googlekeep/Screenshot_20221111-095154_Google Play Store.jpg" alt="oui" height="410" width="auto">
 <img src="pictures/analyse-de-l-existance/googlekeep/Screenshot_20221111-095157_Google Play Store.jpg" alt="oui" height="410" width="auto">
 <img src="pictures/analyse-de-l-existance/googlekeep/Screenshot_20221111-095201_Google Play Store.jpg" alt="oui" height="410" width="auto">
 <img src="pictures/analyse-de-l-existance/googlekeep/Screenshot_20221111-095201_Google Play Store.jpg" alt="oui" height="410" width="auto">
@@ -166,10 +165,7 @@ https://www.pinterest.com/anchar2107/super-notes/
 
 
 #### Page home + cartes des notes
-<img src="pictures/analyse-de-l-existance/googlekeep/Screenshot_20221111-095152_Google Play Store.jpg" alt="oui" height="410" width="auto">
-<img src="pictures/analyse-de-l-existance/notion/Screenshot_20221111-101036_Google Play Store.jpg" alt="oui" height="410" width="auto">
-<img src="pictures/analyse-de-l-existance/easynote/Screenshot_20221111-112844_Google Play Store.jpg" alt="oui" height="410" width="auto">`
-<img src="pictures/analyse-de-l-existance/mindnotes/Screenshot_20221111-114511_Google Play Store.jpg" alt="oui" height="410" width="auto">
+<img src="pictures/analyse-de-l-existance/googlekeep/Screenshot_20221111-095152_Google Play Store.jpg" alt="oui" height="410" width="auto"> <img src="pictures/analyse-de-l-existance/notion/Screenshot_20221111-101036_Google Play Store.jpg" alt="oui" height="410" width="auto"> <img src="pictures/analyse-de-l-existance/easynote/Screenshot_20221111-112844_Google Play Store.jpg" alt="oui" height="410" width="auto">` <img src="pictures/analyse-de-l-existance/mindnotes/Screenshot_20221111-114511_Google Play Store.jpg" alt="oui" height="410" width="auto">
 
 audio => snapchat
 
