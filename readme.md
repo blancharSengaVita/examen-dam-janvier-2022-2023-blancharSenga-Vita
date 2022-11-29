@@ -79,42 +79,60 @@ Ici je vais analyse les points forts et points faibles des applications les conn
 ## ⚙️ Fonctionnalités possibles
 Voici une liste non exhaustif des choses que je pourrais mettre en place dans mon application (les choses à faire en 1er)
 
-- se créer un compte
-- se connecter
-- **prendre des notes (en 1 clique)**
-- selectionner les notes, trier les notes, changer de vues
+###<span style="color:Red"> tâche primaire </span><br>
+
+
+- <span style="color:Red"> se créer un compte (primaire) </span>.
+- <span style="color:Red"> se connecter </span><br>
+- <span style="color:Red"> mdp oublié </span><br>
+- <span style="color:Red">prendre des notes (en 1 clique)  </span>
+- <span style="color:Red"> pin des notes </span>
+  <div style="color:Red"> - Dans la note on pourra : <br>
+  - avoir des outils d'éditeurs de texte qui permette de <br>
+  - changer la taille, la couleur de la police <br>
+  - mettre en gras, italique, en barré, surligné, souligné etc <br>
+    - rajouter des images <br>
+    - avoir une galerie d'image (à la twitter/notion) ou juste en rajouter <br>
+    - dessiner sur une image <br>
+    - enregistrer un son un audio <br>
+  - faire des listes (à puces, a coché)
+- <span style="color:Red"> retrouver des notes avec une barre de recherche (en 1 clique, sans les tags encore)  </span>
+
+###<span style="color:orange"> tâche secondaire </span><br>
+
+
+- une page récap des rappels
+- mettre des tags
+- avoir une page categories avec des notes ranger par tag
+- archiver ses notes
+- paramètres du compte
 - mettre des rappels sur des notes
-- un récap des rappels
-- pin des notes
-- avoir des outils d'éditeurs de texte qui permette de
-  - changer la taille, la couleur de la police
-  - mettre en gras, italique, en barré, surligné, souligné etc
-  - changer la justification du texte
-- dans la note on pourra
-  - rajouter des images
-  - avoir une galerie d'image (à la twitter/notion)
-  - dessiner sur une image
-  - (mettre des calendriers dans les notes, pas encore sur de celle-là)
-- choisir où on veut sauvegarder la note
-- faire des listes à puces
-- avoir un système de synthèse vocale, pas encore sûr
-- mettre des notes dans des notes
-- mettre des libellés, juste avec un #quelquechose on créer un label ou on peut ajouter un autre label, ajouter un liste genre (playlist ytb)
+
+### <span style="color:skyblue"> tâche tertiare </span>
+
+- selectionner les notes, 
+- (trier les notes), 
+- changer de vues, 
+- afficher ou non la date de la création des notes sur la page principale (et / ou sur les notes) (recherche par date ?)
+- un archive de modification des notes ?
+- copier les notes (tertiaires)
+- mettre des notes dans des notes (via des liens) 
+- mettre des label, juste avec un #quelquechose on créer un label ou on peut ajouter un autre label, ajouter un liste genre (playlist ytb), une page dedié au categories du coup
 - (affichage freeform contraiment à notion qui est fort modulaire)
-- archiver des notes
-- retrouver des notes avec une barre de recherche
 - partager ses notes, pouvoirs ajouter des collaborateurs.
-- avoir un dossier de notes
 - les rappels en fonction des dates
 - mettre des database ?
 - mettre des formes ? ecrire dans les forms
 - pouvoir activer des notifiaction push-up pour certaine notes durant une certaine heure sur une ligne de textes, imaginons que t'es en ville de 16 à 19h et tu dois aller chez le coordonier, puis achecter un chou et deposer une lettre, au lieu de devoir deverrouiller ton téléphone pour et aller sur l'app de note juste tu deverouille l'ecran scroll la barre de nav et tu peux voir (ou meme checker) les élément de la liste ?
 - choisir si une note peut prendre quelle taille dans l'affichage
 - affichage de lien
+- (mettre des calendriers dans les notes, pas encore sur de celle-là)
+- (changer la justification du texte ?) <br>
 
 ### 💵 Possibilité de fonctionnalités payantes
 
 - Les themes ?
+- Les polices
 
 ## ⚒️ UX
 
@@ -187,10 +205,6 @@ Behance + pinterest
 
 - une barre de navigation
   - créer une note
-    - dessin
-    - vocale
-    - note
-    - case à cocher
   - home
   - catégories
   - rappels
@@ -212,9 +226,10 @@ Behance + pinterest
       - italique
       - gras
       - souligné
-  - surlignage
+      - barré
+      - surlignage
   - revert ou non ce qu'on a écrit
-  - taille de la police
+  - taille de la police 
   - type de police (la choisir)
   - rajouté des fichiers
     - puces (rond et chiffre)
@@ -222,8 +237,10 @@ Behance + pinterest
     - vocales
     - dessin
     - images
-  - justification ?
-  - alinéa ?
+      - page dessin
+      - page audio
+      - insertion d'image
+
 
 - page rappels
   - la barre de navigation (juste pour les rappels)
@@ -243,6 +260,11 @@ Behance + pinterest
   - Archive
   - Corbeille
   - logout
+
+- parametre
+  - toggle mode nuit et jour
+  - modifier des infos du compte
+    - l'image
 
 - page login
 - page d'inscription
@@ -271,9 +293,9 @@ On va prévoir des thèmes pour les couleurs mais on va faire notre application 
 - blanc
 
 ### logo
-<img src="pictures/ui-moodboard/Logo-inspiration.png">
-
 (piste pour le logo si on l'appelle sparkles notes ?)
+
+<img src="pictures/ui-moodboard/Logo-inspiration.png">
 
 ### Police d'écriture
 SF pro : On va reprendre la police natif du mobile (ici sur IOS) afin que l'utilisateur ne voit pas ses habitudes changer et il pourra se sentir "comme chez lui", de plus c'est des polices qui déjà fait leur preuve sur mobile. Elle est peut-être utilisée aussi bien sur du texte de labeur et que de titrage et a aucune conotation particulière(ce qu'on veut pour que notre app "parle à tout le monde"). (j'existais avec roboto)
