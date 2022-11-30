@@ -95,7 +95,9 @@ Voici une liste non exhaustif des choses que je pourrais mettre en place dans mo
     - avoir une galerie d'image (à la twitter/notion) ou juste en rajouter <br>
     - dessiner sur une image <br>
     - enregistrer un son un audio <br>
-  - faire des listes (à puces, a coché)
+  - faire des listes (à puces, a coché
+    - les ol et li se font avec le "-" est "1."
+    - faut appuyer et maintenir pour afficher les autres option par defaut
 - <span style="color:Red"> retrouver des notes avec une barre de recherche (en 1 clique, sans les tags encore)  </span>
 
 ###<span style="color:orange"> tâche secondaire </span><br>
