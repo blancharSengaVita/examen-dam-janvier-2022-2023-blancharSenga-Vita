@@ -102,7 +102,9 @@ Voici une liste non exhaustif des choses que je pourrais mettre en place dans mo
 
 ###<span style="color:orange"> tâche secondaire </span><br>
 
-
+- épinglé
+- paramètre
+- archive
 - une page récap des rappels
 - mettre des tags
 - avoir une page categories avec des notes ranger par tag
